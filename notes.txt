@@ -1,1 +1,5 @@
 Some additional notes
+
+Adding files to the repository was not clear to me
+
+Can we add a file first and then add content? 
